@@ -9,7 +9,7 @@ def tiramisu_recipe():
         "1/2 cup sugar",
         "1 tsp vanilla extract",
         "1 cup coffee",
-        "Ladyfinger biscuits",
+        "Tesco Ladyfinger biscuits",
         "Cocoa powder"
     ]
 
